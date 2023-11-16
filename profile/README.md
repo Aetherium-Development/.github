@@ -11,7 +11,7 @@ At Aetherium Development, we are passionate about creating cutting-edge tools an
 
 **A Revolutionary Minecraft Experience**
 
-Aetherium Client is our flagship project, setting new standards in Minecraft clients. We are dedicated to enhancing the user experience without compromising on performance. We are currently in closed beta, do check it out over [here](https:/aetherium.club)
+Aetherium Client is our flagship project, setting new standards in Minecraft clients. We are dedicated to enhancing the user experience without compromising on performance. We are currently in closed beta, do check it out over [here](https://aetherium.club)
 
 ## Features
 
